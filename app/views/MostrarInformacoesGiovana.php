@@ -25,7 +25,7 @@ $livro = $controller->pegarPorId($id);
     <?php if ($livro): ?>
         <h1><?= htmlspecialchars($livro['titulo']) ?></h1>
         <p><strong>Autor:</strong> <?= htmlspecialchars($livro['autor']) ?></p>
-        <p><strong>Lançamento:</strong> <?= htmlspecialchars($livro['lacamento']) ?></p>
+        <p><strong>Lançamento:</strong> <?= htmlspecialchars($livro['lancamento']) ?></p>
         <p><strong>Reservado:</strong> <?= $livro['reservado'] ? 'Sim' : 'Não' ?></p>
 
 
