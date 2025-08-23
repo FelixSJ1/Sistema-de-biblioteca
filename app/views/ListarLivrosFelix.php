@@ -41,7 +41,11 @@ if (isset($_POST['listar'])) {
     <?php foreach ($livros as $livro): ?>
         <tr>
             <td><?= $livro['id'] ?></td>
-            <td><?= $livro['titulo'] ?></td>
+            <td>
+                <a href="MostrarInformacoesGiovana.php?id=<?= $livro['id'] ?>">
+                    <?= htmlspecialchars($livro['titulo']) ?>
+                </a>
+            </td>
             <td><?= $livro['autor'] ?></td>
             <td><?= $livro['reservado'] ? 'Sim' : 'Não' ?></td>
             <td><?= isset($livro['sinopse']) ? $livro['sinopse'] : '-' ?></td> 
