@@ -10,7 +10,7 @@ class LoginController{
         if ($this->usuarioModel->autenticar($email, $senha)){
             session_start();
             $_SESSION['usuario'] = $email;
-            header("Location: ../public/index.php"); // página após login
+            header("Location: ../../public/index.php"); // página após login
             exit;
         } else{
             $erro = "Email ou senha incorretos!";
