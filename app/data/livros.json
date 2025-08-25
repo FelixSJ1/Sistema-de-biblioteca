@@ -1,0 +1,40 @@
+
+[ 
+{
+"id": 1,
+"titulo": "Harry Potter e a Pedra Filosofal",
+"autor": "J.K. Rowling",
+"reservado": false,
+"sinopse": "Um jovem descobre seus poderes e inicia sua jornada em Hogwarts.",
+"resumo": "Harry Potter é um órfão maltratado que, no seu décimo primeiro aniversário, descobre que é um bruxo e é convidado para a escola de magia de Hogwarts. Ao descobrir a existência de um mundo mágico repleto de aventuras e desafios, ele faz amigos inseparáveis e se vê envolvido na proteção de um item poderoso, a Pedra Filosofal, contra uma força maligna que busca o poder para ressurgir. ",
+"lancamento": "26 de junho de 1997"
+},
+{
+"id": 2,
+"titulo": "Os Sete Maridos de Evelyn Hugo",
+"autor": "Taylor Jenkins Reid",
+"reservado": false,
+"sinopse": "Uma estrela de Hollywood revela segredos de seus sete casamentos e de seu verdadeiro amor oculto.",
+"resumo": "A atriz Evelyn Hugo, após atingir o auge de sua fama, escolhe uma jornalista iniciante, Monique Grant, para escrever sua biografia, contando todos os segredos e a história de sua vida. A narrativa alterna entre os dias atuais e o passado da atriz, mostrando sua ascensão em Hollywood, seus sacrifícios e os sete casamentos.",
+"lancamento": "13 de junho de 2017"
+},
+{
+"id": 3,
+"titulo": "O amor não é óbvio",
+"autor": "Elayne Baeta",
+"reservado": false,
+"sinopse": "Uma jovem escritora descobre a si mesma enquanto aprende que o amor pode surgir de formas inesperadas.",
+"resumo": "O livro conta a história de Íris, uma adolescente de 17 anos que, ao investigar a garota que terminou o namoro com o seu crush, Cadu, descobre um novo interesse em si mesma e nos seus próprios sentimentos, culminando numa jornada de autodescoberta e aceitação sobre a sua sexualidade e identidade. ",
+"lancamento": "5 de novembro de 2019"
+},
+{
+"id": 4,
+"titulo": "A Odisseia",
+"autor": "Homero",
+"reservado": false,
+"sinopse": "A épica jornada de Odisseu para retornar a Ítaca após a Guerra de Troia, enfrentando monstros, deuses e desafios que testam sua astúcia, coragem e determinação.",
+"resumo": "A Odisseia, de Homero, conta a épica jornada de Odisseu, um herói que tenta retornar à sua terra natal, Ítaca, após a Guerra de Troia. Durante sua longa viagem, ele enfrenta diversos perigos, desde monstros e criaturas fantásticas até desafios impostos pelos deuses, precisando usar astúcia, coragem e perseverança para sobreviver. Ao mesmo tempo, a narrativa mostra o impacto de suas escolhas sobre aqueles que o aguardam em casa e explora temas universais como lealdade, amizade, coragem e o desejo de reencontro com a família e o lar.",
+"lancamento": "século VIII a.C."
+}
+]
+
